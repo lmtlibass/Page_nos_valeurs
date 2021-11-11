@@ -1,0 +1,553 @@
+.navigation
+{
+    box-shadow: 0 .145rem .25rem rgba(0,0,0,.075) !important;
+
+}
+.logo
+{
+    margin-left: 35px;
+}
+.menu-place
+{
+    text-align: center;
+
+}
+.btn-group-color
+{
+    background-color: transparent;
+    border: none;
+
+}
+
+.contacter
+{
+
+    background-color: #CE0033;
+    color: white;
+    border-radius: 13px;
+}
+
+.btn-menu-color
+{
+    border: 0 transparent;
+}
+.btn-menu-color:hover
+{
+    border: 0 transparent;
+
+}
+
+/*la petite histoire*/
+
+h1{
+    text-align: center;
+    color: #CE0033;
+  padding: 25px;
+  font-weight: bolder;
+}
+
+.histoire
+{
+    background-color: #CE0033;
+    margin-left: 0px;
+    margin-top: 102px;
+    border-radius: 0px 0px 50px 0px;
+    width: 450px;
+    height: 110px;
+    color: #ffffff;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 25px;
+    text-align: center;
+    box-shadow: 0px 15px 5px rgba(204, 69, 69, 0.075);
+    
+}
+.histoire h2{
+    color: #ffffff;
+    font-weight: bolder;
+    margin-left: 100px;
+    font-size: 39px;
+}
+
+
+.texthistoire {
+    position: relative;
+    padding: 40px;
+    
+}
+
+.history {
+    position: absolute;
+    width: 440px;
+    height: 470px;
+    background-color: #ffffff;
+    box-shadow: 0 .145rem .25rem rgba(0,0,0,.075) !important;
+    border: 0.2px solid #CE0033;
+    border-radius: 2%;
+    z-index: 1;
+    padding: 15px;
+    text-align: center;
+
+}
+.arriere {
+    width: 440px;
+    height: 470px;
+    float: left;
+    margin-left: -45px;
+    margin-top: -19px;
+    transform: rotate(7deg);
+    background: #CE0033;
+    text-align: end;
+    border-radius: 2%;
+
+}
+.guillemet1
+{
+    float: left;
+    width: 40px;
+    height: 40px;
+}
+.guillemet2
+{
+    float: right;
+    width: 40px;
+    height: 40px;
+
+}
+/*notre pédagogie*/
+.sectionPedagogie
+{
+    padding: 54px;
+}
+h2
+{
+    font-size: x-large;
+    font-weight: bolder;
+    color: #CE0033;
+}
+.Ppedagogie
+{
+    padding: 20px;
+    float: end;
+}
+.Vpedagogie
+{
+    border: 1px solid #ffffff;
+}
+.trait-pedagogie
+{
+    margin-top: 70px;
+    width: 102px;
+    height: 9px;
+    border-radius: 4px;
+    margin-left: 700px;
+    background-color: #CE0033;
+}
+.pilier
+{
+
+    box-shadow: 0px 2px 5px #757171;
+    height: 200px;
+    width: 300px;
+    margin-top: 35px;
+    position: relative;
+    z-index: 1;
+   
+}
+.pilier p
+{
+
+    margin-top: -28px;
+}
+.pilier h1
+{
+    text-align: start;
+
+}
+
+.ligne-p
+{
+    background-color: #CE0033;
+    height: 7px;
+    width: 303px;
+    margin-top: -14px;
+    margin-left: -14px;
+    
+}
+.ligne-p span{
+    display: none;
+}
+.deco1
+{
+    position: absolute;
+    margin-left: 560px;
+    margin-top: -20px;
+    
+}
+.deco2
+{
+    position: relative;
+    float: left;
+    margin-top: -35px;
+    margin-left: -65px;
+    
+}
+
+
+.imgpedagogie #imageP
+{
+    position: relative;
+    width: 400px;
+    height: 650px;
+    margin-top: 50px;
+    margin-right: 100px;
+    border-radius: 9%;
+}
+.bloc .colorImg span
+{
+    display: none;
+}
+
+.bloc .colorImg 
+{
+    position: relative;
+    width: 400px;
+    height: 650px;
+    margin-top: -670px;
+    margin-left: 20px;
+    background-color: #CE0033;
+    border-radius: 9%;
+    z-index: -1;
+    
+}
+
+/*nos valeurs*/
+
+h2
+{
+    font-size: x-large;
+    font-weight: bolder;
+    color: #CE0033;
+}
+
+.textCartsNosValeurs .descNosValeurs
+{
+    margin-top: 80px;
+}
+.indexerValeur
+{
+    width: 0px;
+    height: 0px;
+    border-style: solid;
+    border-width: 30px 20px 30px 0;
+    border-color: transparent #CE0033 transparent;
+    float: end; 
+    position: regular;
+    margin-left: 180px;
+    margin-top: 160px;
+}
+   
+
+.voireplus
+{
+    background-color: #CE0033;
+    border-radius: 20px 20px 20px 20px;
+    border: transparent;
+    width: 100px;
+    height: 50px;
+    color: #ffff;
+    text-align: center;
+    margin-top: 90px;
+    
+}
+
+.cart
+{
+   width: 550px;
+   height: 100px;
+   box-shadow: 0px 2px 5px rgb(117, 113, 113);
+   display: flex;
+   justify-content: space-between;
+   padding: 20px;
+
+   margin-top: 20px;
+}
+.num-cart h1
+{
+    padding: 12px;
+    background-color: #CE0033;
+    border-radius: 100%;
+    color: #ffff;
+    position: absolute;
+    opacity: 50%;
+}
+
+.bande-rouge
+{
+    position: absolute;
+}
+
+.image-rouge img
+{
+    position: relative;
+    width: 200%;
+    height: 300px;
+    z-index: -1;
+}
+.chiffres
+{
+    z-index: 1;
+    color: #ffffff;
+    padding: 20px;
+}
+.chiffres .chiffre
+{
+margin-top: -230px;
+
+}
+.chiffres .chiffre h3
+{
+    font-weight: bolder;
+    font-size:50px;
+    text-align: center;
+}
+.chiffres .chiffre p
+{
+    text-align: center;
+}
+.equipe h1
+{
+    margin-top: 350px;
+   
+}
+.desc-equipe .equipe-description
+{
+text-align: center;
+font-size: 20px;
+}
+.carte-membre h5
+{
+    color: #CE0033;
+   
+}
+.membre-equipe
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+.carte-membre
+{
+    width: 250px;
+    padding: 20px;
+    align-content: center;
+    box-shadow: 1px 5px 15px 10px rgba(117, 115, 115, 0.075);
+}
+.carte-membre img
+{
+    position: top;
+    width: 100px;
+    height: 100px;
+}
+.carte-membre .reseau-sociaux img
+{
+    width: 20px;
+    height: 20px;
+
+}
+.titre-recrutement
+{
+    margin-top: 50px;
+}
+
+.logo-partenaire
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 150px;
+}
+.logo-partenaire col img
+{
+    width: 100px;
+    height: 100px;
+}
+
+/*recrutement*/
+.offres
+{
+    background-color: rgb(211, 145, 145);
+}
+
+.desc-poste
+{
+    position: relative;
+    box-shadow: 1px 5px 15px 10px rgba(117, 115, 115, 0.075);
+    width: 10px;
+    height: 170px;
+    border-radius: 12px;
+    align-content: center;
+    background-color: rgb(255, 255, 255);
+}
+.file>input {
+    display: none;
+  }
+  .file
+  {
+      margin-right: 60px;
+      margin-top: 10px;
+     
+  }
+  .file h2
+  {
+      font-size: 15px;
+  }
+  .joint
+  {
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+      width: 200px;
+
+  }
+  .prenom-nom
+  {
+      margin-top: 20px;
+  }
+  .tel-mail
+  {
+      margin-top: 20px;
+    
+  }
+  .message
+  {
+      margin-top: 40px;
+      padding: 25px;
+  }
+
+
+.img-footer
+{
+    position: absolute;
+}
+
+.image-footer img
+{
+    position: relative;
+    width: 200%;
+    height: 500px;
+    z-index: -1;
+}
+.logo-rs
+{
+    z-index: 1;
+    color: #ffffff;
+    padding: 20px;
+    
+}
+.logo-rs .logo
+{
+    height: 60px;
+    width: 190px;
+    margin-left: 60px;
+    margin-top: -450px;
+
+}
+.logo-rs .rs
+{
+    margin-left: 50px;
+    margin-top: 30px;
+}
+.logo-rs .rs img
+{
+    width: 50px;
+    height: 30px;
+    position: relative;
+   
+}
+.menu-footer .menu 
+{
+    margin-top: -450px;
+    z-index: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.menu-footer .menu ul li 
+{
+    list-style: none;
+    margin-top: 10px;
+}
+.menu-footer .menu ul li  a{
+    color: #ffffff;
+    text-decoration: none;
+}
+.coordonnees-footer
+{
+    z-index: 1;
+    margin-top: -450px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.coordonnees-footer .coordonnee ul li
+{
+    list-style: none;
+    margin-top: 10px;  
+    color: #ffffff; 
+}
+.newsletter-footer
+{
+    z-index: 1;
+    margin-top: -450px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;  
+}
+.newsletter-footer .newsletter ul li{
+    list-style: none;
+    margin-top: 30px;  
+    color: #ffffff; 
+
+}
+.send-mail
+{
+  
+    margin-right: 40px;
+}
+.btn-send-mail
+{
+    background-color: #CE0033;
+    color: #ffffff;
+}
+
+.footer
+{
+    margin-top: 500px;
+    background-color: #CE0033;
+    height: 50px;
+    display: inline;
+    
+}
+.footer .powered p
+{
+    font-weight: bolder;
+    font-size: 14px;
+    color: #ffffff;
+    margin-top: 8px;
+    float: left;
+}
+.footer .madewith p
+{
+    font-weight: bolder;
+    font-size: 14px;
+    color: #ffffff;
+    margin-top: 8px;
+
+    float: right;
+}
+footer
+{
+    margin-top: 50px;
+}
