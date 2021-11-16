@@ -577,14 +577,7 @@ text-recrutement
     
     
 }
-.logo-partenaire
-{
-    position: relative;
-    
-    height: 700px;
-    
-}
-.footer
+.sup-footer
 {
     background-image: url('img/footerimg.png');
     height: auto;
